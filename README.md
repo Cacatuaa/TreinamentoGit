@@ -4,7 +4,7 @@ Treinamento Git - Utilização e comandos básicos:
 Para clonar um repositório de uma base Git
 - git clone <url>
 git clone https://github.com/Cacatuaa/TreinamentoGit.git
-*Obs: depois de clonar, abra o git bash dentro da basta clonada
+Obs: depois de clonar, abra o git bash dentro da basta clonada
  
 Para criar uma branch sua
 - git branch <nome>
@@ -29,7 +29,7 @@ git reset HEAD Cacatua/teste.txt
 Para commitar os arquivos que estavam no staged
 - git commit -m 'nome do projeto - descrição do que rolou'
 git commit -m 'Cacatua - Inclusão de arquivos'
-*Obs: é bacana colocar um padrão como primeiro parametro, como nome do projeto, versão ou o autor
+Obs: é bacana colocar um padrão como primeiro parametro, como nome do projeto, versão ou o autor
 
 Para enviar as mudanças que você realizou para a base do Git
 - git push origin <nome da branch>
