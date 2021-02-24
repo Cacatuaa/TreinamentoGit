@@ -1,37 +1,37 @@
 # TreinamentoGit
-Treinamento Git - Utilização e comandos básicos:
+Treinamento Git - Utilização e comandos básicos para utilizar o Git:
 
-Para clonar um repositório de uma base Git
-- git clone <url>
-git clone https://github.com/Cacatuaa/TreinamentoGit.git
+## Clonar um repositório de uma base Git
+- git clone \<url>
+Ex: git clone https://github.com/Cacatuaa/TreinamentoGit.git
 
-Obs: depois de clonar, abra o git bash dentro da basta clonada
+>_Obs: depois de clonar, abra o git bash dentro da basta clonada!_
  
-Para criar uma branch sua
-- git branch <nome>
-git branch cacatua
+## Criar uma branch
+- git branch \<nome>
+Ex: git branch cacatua
 
-Para alterar de branch que você está utilizando
-- git checkout <nome da branch>
-git checkout cacatua
+## Alterar a branch
+- git checkout \<nome da branch>
+Ex: git checkout cacatua
 
-Para verificar o status atual da branch (seja alteração, exclusão ou incremento)
+## Verificar o status atual da branch (seja alteração, exclusão ou incremento)
 - git status
 
-Para colocar os arquivos no modo staged
+## Colocar os arquivos no modo _staged_
 - git add <nome do arquivo ou . para adicionar todos>
-git add Cacatua/teste.txt
-git add .
+Ex: git add Cacatua/teste.txt
+Ex: git add .
   
-Para retirar algum arquivo do modo staged
+## Retirar algum arquivo do modo _staged_
 - git reset HEAD <nome do arquivo> ou -git reset
-git reset HEAD Cacatua/teste.txt
+Ex: git reset HEAD Cacatua/teste.txt
 
-Para commitar os arquivos que estavam no staged
+## _Commitar_ os arquivos que estavam no staged
 - git commit -m 'nome do projeto - descrição do que rolou'
-git commit -m 'Cacatua - Inclusão de arquivos'
+Ex: git commit -m 'Cacatua - Inclusão de arquivos'
 
-Obs: é bacana colocar um padrão como primeiro parametro, como nome do projeto, versão ou o autor
+>_Obs: é bacana colocar um padrão como primeiro parâmetro, como nome do projeto, versão ou o autor_
 
 Para enviar as mudanças que você realizou para a base do Git
 - git push origin <nome da branch>
