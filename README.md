@@ -37,6 +37,6 @@ Para enviar as mudanças que você realizou para a base do Git
 - git push origin <nome da branch>
 git push origin cacatua
 
-Paraa atualizar tudo:
+Para atualizar tudo:
 - git checkout main
 - git pull
