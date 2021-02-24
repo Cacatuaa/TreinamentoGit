@@ -4,7 +4,7 @@ Treinamento Git - Utilização e comandos básicos:
 Para clonar um repositório de uma base Git
 - git clone <url>
 git clone https://github.com/Cacatuaa/TreinamentoGit.git
-*depois de clonar, abra o git bash dentro da basta clonada
+*Obs: depois de clonar, abra o git bash dentro da basta clonada
  
 Para criar uma branch sua
 - git branch <nome>
