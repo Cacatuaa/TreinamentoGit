@@ -33,10 +33,10 @@ Ex: git commit -m 'Cacatua - Inclusão de arquivos'
 
 >_Obs: é bacana colocar um padrão como primeiro parâmetro, como nome do projeto, versão ou o autor_
 
-Para enviar as mudanças que você realizou para a base do Git
+## Enviar as mudanças que você realizou para a base do Git
 - git push origin <nome da branch>
 git push origin cacatua
 
-Para atualizar tudo:
+## Atualizar a base local:
 - git checkout main
 - git pull
