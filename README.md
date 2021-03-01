@@ -5,7 +5,7 @@ Treinamento Git - Utilização e comandos básicos para utilizar o Git:
 - git clone \<url>
 Ex: git clone https://github.com/Cacatuaa/TreinamentoGit.git
 
->_Obs: depois de clonar, abra o git bash dentro da basta clonada!_
+>_Obs: depois de clonar, abra o git bash dentro da pasta clonada!_
  
 ## Criar uma branch
 - git branch \<nome>
