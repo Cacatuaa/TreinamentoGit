@@ -1,3 +1,4 @@
+
 # TreinamentoGit
 Treinamento Git - Utilização e comandos básicos para utilizar o Git:
 
@@ -9,7 +10,7 @@ Ex: git clone https://github.com/Cacatuaa/TreinamentoGit.git
  
 ## Criar uma branch
 - git branch \<nome>
-Ex: git branch cacatua
+| Ex: git branch cacatua
 
 ## Alterar a branch
 - git checkout \<nome da branch>
@@ -35,7 +36,7 @@ Ex: git commit -m 'Cacatua - Inclusão de arquivos'
 
 ## Enviar as mudanças que você realizou para a base do Git
 - git push origin <nome da branch>
-git push origin cacatua
+Ex: git push origin cacatua
 
 ## Atualizar a base local:
 - git checkout main
